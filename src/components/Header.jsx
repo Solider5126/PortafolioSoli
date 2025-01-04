@@ -54,7 +54,7 @@ const Header = () => {
           </div>
 
           <a
-            href="#"
+            href="https://drive.google.com/file/d/1VjnQjAnPzrLX4515UmTxTaXoY55bcPNp/view?usp=drive_link"
             className="md:flex hidden bg-gray-90 hover:bg-white hover:text-black items-center border-2 gap-2 p-1 px-3 border-gray-900 hover:border-white rounded-lg "
           >
             <AiFillFilePdf size={"35px"} color="red" />
